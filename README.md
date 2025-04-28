@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mikhail Filippov</h1>
 <h3 align="center">Student in the B.Sc. Business Informatics</h3>
 
-I, Mikhail Filippov, am a student at the University of Mannheim in the B.Sc. Business Informatics, interested in becoming a leading business intelligence professional and heading towards this goal. During my study, I was expose to the basic principles of successfully integrating information systems to optimize operations and manage resources, which filled me with enthusiasm to explore this field.
-
-- 🌱 I’m currently learning **Ethereum Technology**
+I, Mikhail Filippov, am a student at the University of Mannheim in the B.Sc. Business Informatics, interested in becoming a leading business intelligence professional and heading towards this goal. Throughout my studies, I have developed a strong foundation in integrating information systems to streamline operations and manage organizational resources effectively. This exposure has deepened my interest in exploring how technology can transform businesses, and I am steadily building the skills needed to contribute to this field with impact.
 
 - 👯 I’m looking to collaborate on **AI & ML Projects**
 
