@@ -52,3 +52,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/michaelflppv/michaelflppv/output/snake.svg" alt="Snake animation" />
+
+###
