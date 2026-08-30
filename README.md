@@ -1,58 +1,72 @@
 <div align="center">
-  <img height="160" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM0MTU4NTIsIm5iZiI6MTc2MzQxNTU1MiwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE3VDIxMzkxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRkYzJlMWEyN2M0OWJjMjc2YmRkZGJmNTkyMjFiMzI3ZmY0MWQ5OGFiYTY0YzRjZTIxNWMwZjRkNGE4YTA1MGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.NNFBlmBITIjEuDxd7qs6ScG3AYPiY4D3iNPUGf-f1N8"  />
+
+<img src="./ascii.svg" width="460" alt="Mikhail Filippov"/>
+
+<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
+
+[github](https://github.com/michaelflppv) &nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/michaelflppv/)
+
 </div>
 
-###
+<img src="./hd-about.svg" width="620" alt="about"/>
+
+> M.Sc. Information Systems at TU Munich, in Munich, Germany.<br>
+> Machine learning on graphs, LLM & RAG pipelines, and the data plumbing behind them.
+
+<img src="./hd-stack.svg" width="620" alt="stack"/>
+
+<samp>python &nbsp; sql &nbsp; java &nbsp; pytorch &nbsp; pytorch geometric &nbsp; hugging face &nbsp; scikit-learn &nbsp; azure &nbsp; databricks &nbsp; docker &nbsp; git</samp>
+
+<img src="./hd-projects.svg" width="620" alt="projects"/>
+
+**[prompt-llm-benchmark](https://github.com/michaelflppv/prompt-llm-benchmark)** &nbsp;·&nbsp; <samp>typescript, hugging face</samp><br>
+Discovers compatible Hugging Face models on the fly, runs reproducible<br>
+multi-model evaluations, and recommends the best prompt–LLM pair by<br>
+accuracy, latency, and resource cost.
+
+**[ged-approximation](https://github.com/michaelflppv/ged-approximation)** &nbsp;·&nbsp; <samp>c++, jupyter</samp><br>
+Bachelor thesis on approximation algorithms for Graph Edit Distance:<br>
+implementations, benchmarks, and evaluation against exact computation.
+
+**[cam-vision](https://github.com/michaelflppv/cam-vision)** &nbsp;·&nbsp; <samp>python, fastapi, flutter</samp><br>
+Self-hosted computer-vision pipeline for live camera feeds — face<br>
+recognition and license-plate reading, streamed through a FastAPI<br>
+server to a desktop dashboard.
+
+**[flight-delay-insurance](https://github.com/michaelflppv/flight-delay-insurance)** &nbsp;·&nbsp; <samp>python, solidity</samp><br>
+Parametric flight-delay insurance on-chain: smart contracts that pay out<br>
+automatically from flight data. Built at UZH's Deep Dive into Blockchain.
+
+<img src="./hd-stats.svg" width="620" alt="stats"/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/michaelflppv/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+
+<img src="./streak.svg" width="620" alt="Current and longest streak"/>
+
+<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
+
+<img src="./year.svg" width="620" alt="The last year, one character per day"/>
+
 </div>
 
-###
+<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
 
-<h1 align="center">Mikhail Filippov</h1>
+Every graphic here is generated, not embedded from anyone else's server.<br>
+`ascii.svg` is a photo pushed through a character ramp by<br>
+[`scripts/make_portrait.py`](scripts/make_portrait.py); the stat graphics and<br>
+these section headings are drawn by [a scheduled action](.github/workflows/stats.yml)<br>
+straight from the GitHub GraphQL API, once a day, committing only what changed.
 
-###
+They animate with SMIL inside the SVG, because GitHub strips scripts from<br>
+READMEs — and since nothing loads from a third party, nothing here can<br>
+rate-limit or go dark. The headings are SVGs for the same reason: GitHub also<br>
+strips CSS, so an image is the only way to put this page's own typeface on them.
 
-<p align="left">I am a M.Sc. Information Systems student at the Technical University of Munich, focusing on building data and machine learning driven solutions for real world use cases.</p>
+The typeface is [JetBrains Mono](scripts/fonts), subset to just the characters<br>
+each graphic draws and inlined as base64. That isn't only for looks: the<br>
+portrait's grid assumes an advance width of exactly 0.600 em, and a viewer whose<br>
+default monospace is narrower would otherwise see it squeezed.
 
-###
-
-<h3 align="center">Language and tools</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="center">Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michaelflppv&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelflppv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/michaelflppv/michaelflppv/output/snake.svg" alt="Snake animation" />
-
-###
+Language totals cover public repositories only. `year.svg` uses the portrait's<br>
+character ramp: `:` `+` `#` `@`, quiet to loud.
